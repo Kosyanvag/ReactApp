@@ -1,0 +1,44 @@
+{
+  "register": [
+    {
+      "id": "99e0",
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "id": "a40e",
+      "password": "admin",
+      "username": "adminnnn"
+    },
+    {
+      "id": "f556",
+      "password": "admin",
+      "username": "adminnnnN"
+    },
+    {
+      "id": "763b",
+      "password": "admin",
+      "username": "adminn"
+    },
+    {
+      "id": "e0a2",
+      "password": "admin",
+      "username": "adminsad"
+    },
+    {
+      "id": "aa88",
+      "password": "vvv",
+      "email": "admin@mail.ru"
+    },
+    {
+      "id": "8697",
+      "password": "v",
+      "email": "v@mail.ru"
+    },
+    {
+      "id": "fdad",
+      "password": "admin",
+      "email": "admin@mail.ru"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+  --main: #99a98f;
+  --dark: #66a5ad;
+  --light: #c4d7e6;
+  --fg: #2e3138;
+  --primary: #255ff4;
+  font-size: calc(16px + (24 - 16) * (100vw - 320px) / (1280 - 320));
+}
+
+body {
+  font-family: sans-serif;
+}
